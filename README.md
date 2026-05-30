@@ -1,3 +1,6 @@
+<img width="962" height="754" alt="image_2026-05-30_09-27-34" src="https://github.com/user-attachments/assets/ad391d33-d00b-4049-b0bb-051ec67ea490" />
+
+
 这个项目是一个针对 Windows 11 系统的硬核深度优化与预装精简（Debloat）工具，它基于国外非常流行的开源脚本项目 Win11Debloat 进行了满配全功能的图形化（GUI）原生复刻。
 
 简单来说，它的核心价值在于：把原本复杂的、需要敲命令行或跑 PowerShell 脚本的底层系统优化，变成了一款可以“一键勾选、傻瓜式执行”的桌面客户端。
